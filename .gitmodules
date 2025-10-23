@@ -1,0 +1,9 @@
+[submodule "backend_module"]
+	path = backend_module
+	url = git@github.com:tangzzz-fan/sf_node_module.git
+[submodule "flutter_module"]
+	path = flutter_module
+	url = git@github.com:tangzzz-fan/flutter_case_module.git
+[submodule "swiftui_module"]
+	path = swiftui_module
+	url = git@github.com:tangzzz-fan/SwiftComprehensiveDemo.git
